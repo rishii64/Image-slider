@@ -22,7 +22,15 @@ body {
 .header {
     color: white;
     text-align: center;
-    margin: 30px auto;
+    margin: 20px auto;
     font-family: Georgia;
     font-size: 50px;
+}
+.note{
+    color: white;
+    position: absolute;
+    right: 32vw;
+    top: 13vh;
+    font-size: 12px;
+    font-style: italic;
 }
