@@ -1,5 +1,5 @@
-# Image-slider
-Hi There!
-Here I made an image-slider which has a smooth animation when you swipe the images sideways.
-Cameille Mormal was my inspiration behind it.
+Hi There! <br>
+Here I made an #Image-slider which has a smooth animation when you glide through the images. <br>
+<a href="https://www.linkedin.com/in/camimormal/">Cameille Mormal</a> was my inspiration behind it. <br>
+Check out her <a href="https://camillemormal.com/">website.</a>
 I hope you guys like it.
